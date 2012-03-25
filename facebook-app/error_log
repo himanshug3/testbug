@@ -1,0 +1,57 @@
+[13-Feb-2012 00:30:56] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/sromeorg/public_html/fb/login/facebook/base_facebook.php on line 1074
+[13-Feb-2012 00:34:22] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:34:22] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:34:22] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:34:22] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:34:22] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:34:22] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:34:24] PHP Warning:  imagegif() [<a href='function.imagegif'>function.imagegif</a>]: Unable to open 'images/result1.jpg' for writing: Permission denied in /home/sromeorg/public_html/fb/login/home.php on line 91
+[13-Feb-2012 00:34:24] PHP Warning:  imagegif() [<a href='function.imagegif'>function.imagegif</a>]: Unable to open 'images/result2.jpg' for writing: Permission denied in /home/sromeorg/public_html/fb/login/home.php on line 98
+[13-Feb-2012 00:34:33] CSRF state token does not match one provided.
+[13-Feb-2012 00:35:32] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 51
+[13-Feb-2012 00:35:32] PHP Fatal error:  Uncaught GraphMethodException: Unsupported get request.
+  thrown in /home/sromeorg/public_html/fb/login/facebook/base_facebook.php on line 1074
+[13-Feb-2012 00:37:38] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:37:38] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:37:38] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:37:38] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:37:38] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:37:38] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:38:20] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:38:20] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:38:20] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:38:20] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:38:20] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:38:20] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:39:45] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:39:45] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:39:45] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:39:45] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:39:45] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:39:45] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:40:49] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:40:49] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:40:49] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:40:49] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:40:49] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:40:49] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:42:23] PHP Fatal error:  Uncaught OAuthException: Error validating access token: The session is invalid because the user logged out.
+  thrown in /home/sromeorg/public_html/fb/login/facebook/base_facebook.php on line 1074
+[13-Feb-2012 00:52:09] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/sromeorg/public_html/fb/login/facebook/base_facebook.php on line 1074
+[13-Feb-2012 00:52:31] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/sromeorg/public_html/fb/login/facebook/base_facebook.php on line 1074
+[13-Feb-2012 00:53:30] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:53:30] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:53:30] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:53:30] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:53:30] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:53:30] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:53:30] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:53:30] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:53:30] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:53:30] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:53:30] PHP Warning:  Invalid argument supplied for foreach() in /home/sromeorg/public_html/fb/login/home.php on line 56
+[13-Feb-2012 00:53:31] PHP Fatal error:  Uncaught GraphMethodException: Unsupported get request.
+  thrown in /home/sromeorg/public_html/fb/login/facebook/base_facebook.php on line 1074
